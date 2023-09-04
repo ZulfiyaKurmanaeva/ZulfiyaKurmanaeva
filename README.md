@@ -1,9 +1,9 @@
-<ul align="right">
-    <li><a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a></li>
-    <li><a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a></li>
-</ul>
+<p align="right">
+    <<a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
+    <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
+</p>
 
-<h1 align="center">Hi!👋 I'm Zulfiya.</h1>
+<h1 align="center">Hello!👋 I'm Zulfiya.</h1>
 
 <h2>
 About me
@@ -36,7 +36,7 @@ About me
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-     <img src="./images/Kurmanaeva.jpg" alt="Certificate" height="600"/>
+     <img src="./images/Kurmanaeva.jpg" alt="Certificate" height="500"/>
      </details>
      </li>
    </ul>
