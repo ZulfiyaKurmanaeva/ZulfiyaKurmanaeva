@@ -22,7 +22,7 @@
 <p> 
 <img title="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 <img title="VisualStudio" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
-<img title="Miro" src="/images/miro.png" alt="Miro" height="30"/>
+<img title="Miro" src="./images/miro.png" alt="Miro" height="30"/>
 <img title="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30"/>
 </p>
 
@@ -34,7 +34,7 @@
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-       <a src="/images/Kurmanaeva.png" target="_blank">Certificate</a>
+       <a src="./images/Kurmanaeva.png" target="_blank">Certificate</a>
        </details>
      </li>
    </ul>
@@ -66,7 +66,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://diplomov.nomoreparties.sbs/"><img src ="images/movies-eplorer.png" alt="Movies-explorer preview"></a>
+      <a href="https://diplomov.nomoreparties.sbs/"><img src ="./images/movies-eplorer.png" alt="Movies-explorer preview"></a>
     </td>
   </tr>
 
@@ -88,7 +88,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://uno.nomoredomains.rocks/"><img src ="images/mesto.png" alt="Mesto preview"></a>
+      <a href="https://uno.nomoredomains.rocks/"><img src ="./images/mesto.png" alt="Mesto preview"></a>
     </td>
   </tr>
 
@@ -110,7 +110,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html/"><img src ="images/travel-russia.png" alt="Travel around Russia preview"></a>
+      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html/"><img src ="./images/travel-russia.png" alt="Travel around Russia preview"></a>
     </td>
   </tr>
 
@@ -130,7 +130,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/"><img src ="images/prodocumenty.png" alt="Mesto preview"></a>
+      <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/"><img src ="./images/prodocumenty.png" alt="Mesto preview"></a>
     </td>
 </tr>
 
