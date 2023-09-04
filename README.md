@@ -1,26 +1,27 @@
-<!-- Заголовок профиля -->
 <p align="right">
-    <a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
-    <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
+    * <a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
+    * <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
 </p>
 
 <h1 align="center">Hi!👋 I'm Zulfiya.</h1>
 
-<!-- Описание профиля -->
 <h2>
-About me:
+About me
 </h2>
 <p><i>Привет!</i></p>
 
-<!-- Стек технологий -->
-## My Tech Stack
-<p>
+<h2>
+ My Tech Stack
+</h2>
+<p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" height="30"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" height="30"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" height="30"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="30"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
@@ -29,9 +30,7 @@ About me:
 <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
 </p>
 
-<!-- Обучение -->
-
-<h3>Education</h3>
+<h2>Education</h2>
     
 <ul>
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
@@ -43,9 +42,10 @@ About me:
    </ul>
 </ul>
 
-<h3>My projects</h3>
+<h2>My projects</h2>
 
 <table border="1">
+
   <tr>
     <th>Project</th>
     <th width="35%">Preview</th>
@@ -54,7 +54,7 @@ About me:
  <tr>
     <td>
       <h3 style="color: grey">Movies-explorer</h3>
-      <p><strong>Tools: React, JavaScript, Flexbox, Grid Layout, Webpack, Html/Css</strong></p>
+      <p><strong>Tools: React, JavaScript, Flexbox, Grid Layout, Webpack, Html, CSS</strong></p>
       <p>Movie search application with user authorization and registration.</p>
       <p>My project has the following functions: </p>
       <ul>
@@ -76,7 +76,7 @@ About me:
  <tr>
     <td>
       <h3 style="color: grey">Mesto</h3>
-      <p><strong>Tools: HTML5, CSS3, JavaScript, Webpack</strong></p>
+      <p><strong>Tools: Html, CSS, JavaScript, Webpack</strong></p>
       <p>An application where users can share photos of their favorite places.</p>
       <p>My project has the following functions: </p>
       <ul>
@@ -97,8 +97,8 @@ About me:
 
   <tr>
     <td>
-      <h3 style="color: grey">Travel guide</h3>
-      <p><strong>Tools: Html/Css, Flexbox, Grid, CSS-animation</strong></p>
+      <h3 style="color: grey">Traveling around Russia</h3>
+      <p><strong>Tools: Html, CSS, Flexbox, Grid, CSS-animation</strong></p>
       <p>Project “Traveling around Russia” is an responsive site for planning trips around Russia with a lot of photos.</p>
       <p>My project has the following functions: </p>
       <ul>
@@ -120,7 +120,7 @@ About me:
 <tr>
     <td>
       <h3 style="color: grey">PROdocumenty</h3>
-      <p><strong>Tools: HTML, CSS, Flexbox</strong></p>
+      <p><strong>Tools: Html, CSS, Flexbox</strong></p>
       <p>A commercial project developed for a licensing company.</p>
       <p>My project has the following functions: </p>
       <ul>
@@ -139,10 +139,7 @@ About me:
 
   </table>
 
-
-<!-- Контакты -->
-## Contact Information
+<h3>Contact Information</h3>
 
 - Email: kurzul13@gmail.com
 - Telegram: [@ninel3000](https://t.me/ninel3000)
-
