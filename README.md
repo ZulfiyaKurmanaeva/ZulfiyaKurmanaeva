@@ -1,5 +1,5 @@
 <p align="right">
-    <<a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
+    <a href="mailto:kurzul13@gmail.com"> <img align="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail" height="30"/></a>
     <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
 </p>
 
@@ -8,7 +8,7 @@
 <h2>
 About me
 </h2>
-<p><i>Привет!</i></p>
+<p><i>Hello!</i></p>
 
 <h2>
  My Tech Stack
