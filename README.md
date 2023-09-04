@@ -34,7 +34,7 @@
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-       <a src="./images/Kurmanaeva.png" target="_blank">Certificate</a>
+       <a href="./images/Kurmanaeva.png." target="_blank">Certificate</a>
        </details>
      </li>
    </ul>
@@ -66,7 +66,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://diplomov.nomoreparties.sbs/"><img src ="./images/movies-eplorer.png" alt="Movies-explorer preview"></a>
+      <a href="https://diplomov.nomoreparties.sbs/"><img src="./images/movies-eplorer.png" alt="Movies-explorer preview"></a>
     </td>
   </tr>
 
@@ -88,7 +88,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://uno.nomoredomains.rocks/"><img src ="./images/mesto.png" alt="Mesto preview"></a>
+      <a href="https://uno.nomoredomains.rocks/"><img src="./images/mesto.png" alt="Mesto preview"></a>
     </td>
   </tr>
 
@@ -106,11 +106,11 @@
         <li>Variety of semantics;</li>        
       </ul>
       <p>You can find the code <a href="https://github.com/ZulfiyaKurmanaeva/russian-travel" target="_blank">here</a>.</p>
-      <p>The result <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html/" target="_blank">here</a> or you can click on the image on the right.</p> 
+      <p>The result <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html" target="_blank">here</a> or you can click on the image on the right.</p> 
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html/"><img src ="./images/travel-russia.png" alt="Travel around Russia preview"></a>
+      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html"><img src="./images/travel-russia.png" alt="Travel around Russia preview"></a>
     </td>
   </tr>
 
@@ -130,7 +130,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/"><img src ="./images/prodocumenty.png" alt="Mesto preview"></a>
+      <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/"><img src="./images/prodocumenty.png" alt="Mesto preview"></a>
     </td>
 </tr>
 
