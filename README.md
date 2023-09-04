@@ -34,8 +34,8 @@
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-       <img title="Certificate" src="./images/Kurmanaeva.png." alt="Certificate" height="100"/>
-       </details>
+     ![Certificate](./images/Kurmanaeva.png)
+      </details>
      </li>
    </ul>
 </ul>
