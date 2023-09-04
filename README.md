@@ -11,7 +11,6 @@
 About me:
 </h2>
 <p><i>Привет!</i></p>
-<p><i>
 
 <!-- Стек технологий -->
 ## My Tech Stack
@@ -22,8 +21,6 @@ About me:
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" height="30"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" height="30"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" height="30"/>
-<img src="./images/miro.png" alt="Miro" height="30"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="30"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
@@ -116,7 +113,7 @@ About me:
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html"><img src="./images/travel-russia.jpg" alt="Travel around Russia preview"></a>
+      <a href="https://zulfiyakurmanaeva.github.io/russian-travel/index.html"><img src="./images/travelRussia.jpg" alt="Travel around Russia preview"></a>
     </td>
   </tr>
 
