@@ -34,7 +34,7 @@
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-       <a href="./images/Kurmanaeva.png." target="_blank">Certificate</a>
+       <img title="Certificate" src="./images/Kurmanaeva.png." alt="Certificate" height="100"/>
        </details>
      </li>
    </ul>
@@ -66,7 +66,7 @@
     </td>
     <td>
       <p>Click preview</p>
-      <a href="https://diplomov.nomoreparties.sbs/"><img src="./images/movies-eplorer.png" alt="Movies-explorer preview"></a>
+      <a href="https://diplomov.nomoreparties.sbs/"><img src="./images/movies-eplorer.png" alt="Movies-explorer preview"/></a>
     </td>
   </tr>
 
