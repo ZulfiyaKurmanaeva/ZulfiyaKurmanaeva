@@ -8,7 +8,9 @@
 <h2>
 About me
 </h2>
-<p><i>Hello!</i></p>
+<p><i>I'm a passionate junior Frontend Developer. I can create elegant and well-organized web applications that bring joy to users.</i></p>
+<p><i>I've graduated web-development professional training course at Practicum by Yandex and now I’m actively learning frameworks and libraries and looking for a job or internship in IT-sector.</i></p>
+<p><i>I will be glad to join your team!</i></p>
 
 <h2>
  My Tech Stack
