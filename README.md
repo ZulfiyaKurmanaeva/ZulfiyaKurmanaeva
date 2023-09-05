@@ -58,7 +58,7 @@ About me
       <h3 style="color: grey">Movies-explorer</h3>
       <p><strong>Tools: React, JavaScript, Flexbox, Grid Layout, Webpack, Html, CSS</strong></p>
       <p>Movie search application.</p>
-      <p>My project has the following functions: </p>
+      <p>The project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
         <li>Adaptability at different resolutions - 1280px, 1024px, 768px, 320px, including breakpoints;</li>
@@ -80,7 +80,7 @@ About me
       <h3 style="color: grey">Mesto</h3>
       <p><strong>Tools: Html, CSS, JavaScript, Webpack</strong></p>
       <p>An application where users can share photos of their favorite places.</p>
-      <p>My project has the following functions: </p>
+      <p>The project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
         <li>Adaptability at different resolutions, including breakpoints;</li>
@@ -102,7 +102,7 @@ About me
       <h3 style="color: grey">Traveling around Russia</h3>
       <p><strong>Tools: Html, CSS, Flexbox, Grid, CSS-animation</strong></p>
       <p>Project “Traveling around Russia” is an responsive site for planning trips around Russia with a lot of photos.</p>
-      <p>My project has the following functions: </p>
+      <p>The project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
         <li>Adaptability at different resolutions, including breakpoints;</li>
@@ -124,7 +124,7 @@ About me
       <h3 style="color: grey">PROdocumenty</h3>
       <p><strong>Tools: Html, CSS, Flexbox</strong></p>
       <p>A commercial project developed for a licensing company.</p>
-      <p>My project has the following functions: </p>
+      <p>The project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
         <li>Adaptability at different resolutions, including breakpoints;</li>
