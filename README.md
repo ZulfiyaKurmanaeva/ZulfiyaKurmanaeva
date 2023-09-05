@@ -36,7 +36,7 @@ About me
      <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a></li>
 <ul>
      <li><details><summary>To see certificate click here</summary>
-     <img src="./images/Kurmanaeva.jpg" alt="Certificate" height="500"/>
+     <img src="./images/Kurmanaeva.jpg" alt="Certificate" height="800"/>
      </details>
      </li>
    </ul>
@@ -55,7 +55,7 @@ About me
     <td>
       <h3 style="color: grey">Movies-explorer</h3>
       <p><strong>Tools: React, JavaScript, Flexbox, Grid Layout, Webpack, Html, CSS</strong></p>
-      <p>Movie search application with user authorization and registration.</p>
+      <p>Movie search application.</p>
       <p>My project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
