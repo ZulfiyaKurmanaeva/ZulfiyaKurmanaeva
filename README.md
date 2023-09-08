@@ -3,8 +3,8 @@
     <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
 </p>
 
-<h1 align="center"><i>Welcome, dear friend!<br>Step into my humble corner in the world of web development.</i></h1>
-<p align="center"><strong></strong></p>
+<h1 align="center"><i>Welcome, dear friend!</i></h1>
+<h3 align="center"><i>Step into my humble corner in the world of web development.<i></h3>
 
 <h2>
 About me
