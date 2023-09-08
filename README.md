@@ -4,17 +4,7 @@
 </p>
 
 <h1 align="center"><i>Welcome, dear friend!</i></h1>
-
-<table>
- <tr>
-    <td>
-      <h3 align="center"><i>Step into my humble corner in the world of web development.<i></h3>
-     </td>
-    <td>
-      <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="233" height="131" alt="web-developing">      
-    </td>
-  </tr>
-  </table>
+<h3 align="center"><i>Step into my humble corner in the world of web development.<i></h3>
 
 <h2>
 About me
@@ -56,7 +46,15 @@ About me
    </ul>
 </ul>
 
-<h3>Contact Information</h3>
-
-- Email: kurzul13@gmail.com
-- Telegram: [@ninel3000](https://t.me/ninel3000)
+<table>
+ <tr>
+    <td>
+      <h3>Contact Information</h3>
+      <p>- Email: kurzul13@gmail.com</p>
+      <p>- Telegram: [@ninel3000](https://t.me/ninel3000)</p>
+     </td>
+    <td>
+      <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="233" height="131" alt="web-developing">      
+    </td>
+  </tr>
+  </table>
