@@ -3,14 +3,17 @@
     <a href="https://t.me/ninel3000"> <img align="" src="https://img.shields.io/badge/Telegram-1E90FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF" alt="Telegram" height="30"/></a>
 </p>
 
-<h1 align="center">Hello! My name is Zulfiya.</h1>
+<h1 align="center">Welcome, dear friend!</h1>
+<p align="center"><strong>Step into my humble corner in the world of web development.</strong></p>
 
 <h2>
 About me
 </h2>
-<p><i>I'm a passionate junior Frontend Developer. I can create elegant and well-organized web applications that bring joy to users.</i></p>
-<p><i>I've graduated web-development professional training course at Practicum by Yandex and now I’m actively learning frameworks and libraries and looking for a job or internship in IT-sector.</i></p>
-<p><i>I will be glad to join your team! 👋</i></p>
+<p><i>My name is Zulfiya. I'm a passionate junior front-end developer.</i></p>
+<p><i>I've graduated web development course at Yandex.Practicum and currently working in the Yandex Accelerator team.</i></p>
+<p><i>I strive not only to write efficient and readable code but also to create user-friendly and visually appealing interfaces that bring joy to users. Therefore, I am currently  studying web design in graphic design courses and also learning JavaScript frameworks and libraries to enhance my skills in web application development.</i></p>
+<p><i>If you have any questions for me, you can find my contacts below.</i></p>
+<p><i>I would be glad to get acquainted with you! 👋</i></p>
 
 <h2>
  My Tech Stack
