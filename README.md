@@ -46,14 +46,14 @@ About me
    </ul>
 </ul>
 
-<table>
+<table border=none>
  <tr>
-    <td>
+    <td align="top">
       <h3>Contact Information</h3>
       <p>- Email: kurzul13@gmail.com</p>
       <p>- Telegram: [@ninel3000](https://t.me/ninel3000)</p>
      </td>
-    <td>
+    <td align="right">
       <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="233" height="131" alt="web-developing">      
     </td>
   </tr>
