@@ -4,7 +4,17 @@
 </p>
 
 <h1 align="center"><i>Welcome, dear friend!</i></h1>
-<h3 align="center"><i>Step into my humble corner in the world of web development.<i></h3>
+
+<table>
+ <tr>
+    <td>
+      <h3 align="center"><i>Step into my humble corner in the world of web development.<i></h3>
+     </td>
+    <td>
+      <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="233" height="131" alt="web-developing">      
+    </td>
+  </tr>
+  </table>
 
 <h2>
 About me
