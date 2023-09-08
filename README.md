@@ -36,25 +36,16 @@ About me
 </p>
 
 <h2>Education</h2>    
-<ul>
-     <li> <a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a>, 2023</li>
-<ul>
-     <li><details><summary>To see certificate click here</summary>
-     <img src="./images/Kurmanaeva.jpg" alt="Certificate" height="800"/>
-     </details>
-     </li>
-   </ul>
-</ul>
-
+<p><a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a>, 2023</p>
+<details><summary>To see certificate click here</summary><img src="./images/Kurmanaeva.jpg" alt="Certificate" height="800"/></details>
+ 
 <h2>Contact Information</h2>
-<table border="0">
- <tr>
-     <td align="right">
+<ul style="decoration: none; display: inline;">
+ <li>     
+    <p>- Email: kurzul13@gmail.com</p>
+    <p>- Telegram: <a href="https://practicum.yandex.ru/web/" target="_blank">@ninel3000</a></p>
+ </li>
+ <li>
       <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="116" height="65" alt="web-developing">      
-    </td>
-    <td align="top">      
-      <p>- Email: kurzul13@gmail.com</p>
-      <p>- Telegram: [@ninel3000](https://t.me/ninel3000)</p>
-      </td>
-  </tr>
-  </table>
+ </li>
+</ul>
