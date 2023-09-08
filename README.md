@@ -42,5 +42,5 @@ About me
  
 <h2>Contact Information</h2>
   <p>- Email: <a href="mailto:kurzul13@gmail.com" target="_blank">kurzul13@gmail.com</a></p>
-  <p>- Telegram: <a href="https://practicum.yandex.ru/web/" target="_blank">@ninel3000</a></p>
+  <p>- Telegram: <a href="https://t.me/ninel3000" target="_blank">@ninel3000</a></p>
  
