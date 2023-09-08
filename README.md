@@ -36,7 +36,7 @@ About me
 </p>
 
 <h2>Education</h2>    
-<p><a href="https://practicum.yandex.ru/web/" target="_blank">Web development, Yandex Practicum</a>, 2023
+<p><strong>Web development, </strong><a href="https://practicum.yandex.ru/web/" target="_blank">Yandex Practicum</a>, 2023
 <details><summary>   To see certificate click here</summary><img src="./images/Kurmanaeva.jpg" alt="Certificate" height="800"/></details>
 </p>
  
