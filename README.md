@@ -46,15 +46,15 @@ About me
    </ul>
 </ul>
 
-<table border=none>
+<h2>Contact Information</h2>
+<table border="0">
  <tr>
-    <td align="top">
-      <h3>Contact Information</h3>
+     <td align="right">
+      <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="116" height="65" alt="web-developing">      
+    </td>
+    <td align="top">      
       <p>- Email: kurzul13@gmail.com</p>
       <p>- Telegram: [@ninel3000](https://t.me/ninel3000)</p>
-     </td>
-    <td align="right">
-      <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" width="233" height="131" alt="web-developing">      
-    </td>
+      </td>
   </tr>
   </table>
